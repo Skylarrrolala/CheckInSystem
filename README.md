@@ -28,4 +28,4 @@ The system is designed for learning and prototyping purposes and can later be ex
 ### How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/CheckInSystem.git
+   git clone https://github.com/Skylarrrolala/CheckInSystem.git
