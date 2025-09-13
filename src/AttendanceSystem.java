@@ -16,7 +16,7 @@ public class AttendanceSystem {
 
     public void checkOut() {
         Date now = new Date(); 
-
+        
 
 
     }
