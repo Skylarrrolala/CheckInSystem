@@ -11,5 +11,6 @@ public class Main {
         AttendanceSystem system = new AttendanceSystem();
         Scanner sc = new Scanner(System.in);
         System.out.println("hello world");
+        sc.close(); 
     }
 }
