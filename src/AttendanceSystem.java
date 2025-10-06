@@ -12,11 +12,12 @@ public class AttendanceSystem {
     
     public void checkIn() {
         Date now = new Date(); 
+        
     }
 
     public void checkOut() {
         Date now = new Date(); 
-        
+
 
 
     }
